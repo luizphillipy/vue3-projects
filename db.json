@@ -30,5 +30,101 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
-  ]
+  ],
+  "devices_old" : [
+    {
+      "name" : "VDCM1",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM2",
+      "channel" : 1,
+      "sourceName" : "Source2",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1235,
+      "tms" : 33,
+      "iguide" : 55,
+      "passport" : 70,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM3",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM4",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    }
+   ],
+  "modified_devices" : [
+    {
+      "name" : "VDCM1",
+      "channel" : 8,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 72,
+      "clu" : "CLM-1",
+      "classService" : "Tier 2"
+    },
+    {
+      "name" : "VDCM2",
+      "channel" : 1,
+      "sourceName" : "Source2",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1235,
+      "tms" : 33,
+      "iguide" : 55,
+      "passport" : 70,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+ 
+    {
+      "name" : "VDCM4",
+      "channel" : 1,
+      "sourceName" : "Source4",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    }
+    ]
 }
