@@ -31,100 +31,128 @@
       "organizer": "Carey Wales"
     }
   ],
-  "devices_old" : [
+  "devices_old": [
     {
-      "name" : "VDCM1",
-      "channel" : 1,
-      "sourceName" : "Source1",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1234,
-      "tms" : 34,
-      "iguide" : 55,
-      "passport" : 78,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999235": {
+        "name": "VDCM1",
+        "channel": 1,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 55,
+        "passport": 78,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     },
     {
-      "name" : "VDCM2",
-      "channel" : 1,
-      "sourceName" : "Source2",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1235,
-      "tms" : 33,
-      "iguide" : 55,
-      "passport" : 70,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999236": {
+        "name": "VDCM2",
+        "channel": 5,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": true,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 55,
+        "passport": 78,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     },
     {
-      "name" : "VDCM3",
-      "channel" : 1,
-      "sourceName" : "Source1",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1234,
-      "tms" : 34,
-      "iguide" : 55,
-      "passport" : 78,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999237": {
+        "name": "VDCM3",
+        "channel": 1,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 85,
+        "passport": 38,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     },
     {
-      "name" : "VDCM4",
-      "channel" : 1,
-      "sourceName" : "Source1",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1234,
-      "tms" : 34,
-      "iguide" : 55,
-      "passport" : 78,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999238": {
+        "name": "VDCM4",
+        "channel": 1,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 55,
+        "passport": 78,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     }
-   ],
-  "modified_devices" : [
+  ],
+  "modified_devices": [
     {
-      "name" : "VDCM1",
-      "channel" : 8,
-      "sourceName" : "Source1",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1234,
-      "tms" : 34,
-      "iguide" : 55,
-      "passport" : 72,
-      "clu" : "CLM-1",
-      "classService" : "Tier 2"
+      "1999235": {
+        "name": "VDCM1",
+        "channel": 1,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 55,
+        "passport": 78,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     },
     {
-      "name" : "VDCM2",
-      "channel" : 1,
-      "sourceName" : "Source2",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1235,
-      "tms" : 33,
-      "iguide" : 55,
-      "passport" : 70,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999236": {
+        "name": "VDCM2",
+        "channel": 5,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": true,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 95,
+        "passport": 78,
+        "clu": "CLM-4",
+        "classService": "SBB"
+      }
     },
- 
     {
-      "name" : "VDCM4",
-      "channel" : 1,
-      "sourceName" : "Source4",
-      "sdHd" : true,
-      "sdv" : false,
-      "clms" : 1234,
-      "tms" : 34,
-      "iguide" : 55,
-      "passport" : 78,
-      "clu" : "CLM-1",
-      "classService" : "SBB"
+      "1999237": {
+        "name": "VDCM3",
+        "channel": 10,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 85,
+        "passport": 38,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
+    },
+    {
+      "1999240": {
+        "name": "VDCM9",
+        "channel": 1,
+        "sourceName": "Source1",
+        "sdHd": true,
+        "sdv": false,
+        "clms": 1234,
+        "tms": 34,
+        "iguide": 55,
+        "passport": 78,
+        "clu": "CLM-1",
+        "classService": "SBB"
+      }
     }
-    ]
+  ]
 }
