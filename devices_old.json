@@ -1,0 +1,56 @@
+{
+  "devices": [
+    {
+      "name" : "VDCM1",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM2",
+      "channel" : 1,
+      "sourceName" : "Source2",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1235,
+      "tms" : 33,
+      "iguide" : 55,
+      "passport" : 70,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM3",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    },
+    {
+      "name" : "VDCM4",
+      "channel" : 1,
+      "sourceName" : "Source1",
+      "sdHd" : true,
+      "sdv" : false,
+      "clms" : 1234,
+      "tms" : 34,
+      "iguide" : 55,
+      "passport" : 78,
+      "clu" : "CLM-1",
+      "classService" : "SBB"
+    }
+  ]
+}
