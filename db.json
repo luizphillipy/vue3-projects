@@ -33,21 +33,6 @@
   ],
   "devices_old": [
     {
-      "1999235": {
-        "name": "VDCM1",
-        "channel": 1,
-        "sourceName": "Source1",
-        "sdHd": true,
-        "sdv": false,
-        "clms": 1234,
-        "tms": 34,
-        "iguide": 55,
-        "passport": 78,
-        "clu": "CLM-1",
-        "classService": "SBB"
-      }
-    },
-    {
       "1999236": {
         "name": "VDCM2",
         "channel": 5,
