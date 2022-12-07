@@ -125,4 +125,193 @@
       }
     }
   ]
+  "videoflows" : [
+  {
+    "1": {
+      "configurations" : {
+        "1999236" : {
+        "deviceId" : 1999236,
+        "name" : "VDCM1",
+        "channel" : 1,
+        "sourceName" : "Source1",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1234,
+        "tms" : 34,
+        "iguide" : 55,
+        "passport" : 78,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      },
+        "1999237":{
+        "deviceId" : 1999237,
+        "name" : "VDCM2",
+        "channel" : 1,
+        "sourceName" : "Source2",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1235,
+        "tms" : 33,
+        "iguide" : 55,
+        "passport" : 70,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      }
+      },
+      "approvers" : null,
+      "isApproved" : false,
+      "implementer" : null,
+      "designer" : 100,
+      "flowName" :"NBCHD"
+      },
+    "2": {
+      "configurations" : {
+        "1999238" : {
+        "deviceId" : 1999238,
+        "name" : "VDCM1",
+        "channel" : 1,
+        "sourceName" : "Source1",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1234,
+        "tms" : 34,
+        "iguide" : 55,
+        "passport" : 78,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      },
+        "1999239":{
+        "name" : "VDCM2",
+        "deviceId" : 1999239,
+        "channel" : 1,
+        "sourceName" : "Source2",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1235,
+        "tms" : 33,
+        "iguide" : 55,
+        "passport" : 70,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      }
+      },
+      "approvers" : null,
+      "isApproved" : false,
+      "implementer" : null,
+      "designer" : 100,
+      "flowName" :"DISCOVERYCHHD"
+      },
+    "3": {
+      "configurations" : {
+        "1999240" : {
+        "deviceId" : 1999240,
+        "name" : "VDCM1",
+        "channel" : 1,
+        "sourceName" : "Source1",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1234,
+        "tms" : 34,
+        "iguide" : 55,
+        "passport" : 78,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      },
+        "1999241":{
+        "deviceId" : 1999241,
+        "name" : "VDCM2",
+        "channel" : 1,
+        "sourceName" : "Source2",
+        "sdHd" : true,
+        "sdv" : false,
+        "clms" : 1235,
+        "tms" : 33,
+        "iguide" : 55,
+        "passport" : 70,
+        "clu" : "CLM-1",
+        "classService" : "SBB"
+      }
+      },
+      "approvers" : [123],
+      "isApproved" : true,
+      "implementer" : null,
+      "designer" : 100,
+      "flowName" :"DISNEYHD"
+      },
+      "4": {
+        "configurations" : {
+          "1999238" : {
+          "deviceId" : 1999238,
+          "name" : "VDCM1",
+          "channel" : 1,
+          "sourceName" : "Source1",
+          "sdHd" : true,
+          "sdv" : false,
+          "clms" : 1234,
+          "tms" : 34,
+          "iguide" : 55,
+          "passport" : 78,
+          "clu" : "CLM-1",
+          "classService" : "SBB"
+        },
+          "1999239":{
+          "name" : "VDCM2",
+          "deviceId" : 1999239,
+          "channel" : 1,
+          "sourceName" : "Source2",
+          "sdHd" : true,
+          "sdv" : false,
+          "clms" : 1235,
+          "tms" : 33,
+          "iguide" : 55,
+          "passport" : 70,
+          "clu" : "CLM-1",
+          "classService" : "SBB"
+        }
+        },
+        "approvers" : null,
+        "isApproved" : false,
+        "implementer" : null,
+        "designer" : 100,
+        "flowName" :"HboHD"
+        },
+      "5": {
+        "configurations" : {
+          "1999242" : {
+          "deviceId" : 1999242,
+          "name" : "VDCM1",
+          "channel" : 1,
+          "sourceName" : "Source1",
+          "sdHd" : true,
+          "sdv" : false,
+          "clms" : 1234,
+          "tms" : 34,
+          "iguide" : 55,
+          "passport" : 78,
+          "clu" : "CLM-1",
+          "classService" : "SBB"
+        },
+          "1999243":{
+          "deviceId" : 1999243,
+          "name" : "VDCM2",
+          "channel" : 1,
+          "sourceName" : "Source2",
+          "sdHd" : true,
+          "sdv" : false,
+          "clms" : 1235,
+          "tms" : 33,
+          "iguide" : 55,
+          "passport" : 70,
+          "clu" : "CLM-1",
+          "classService" : "SBB"
+        }
+        },
+        "approvers" : [123],
+        "isApproved" : true,
+        "implementer" : null,
+        "designer" : 100,
+        "flowName" :"ESPNHD"
+        }
+  }
+]
 }
